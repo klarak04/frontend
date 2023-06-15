@@ -1,3 +1,3 @@
 <script>
-  import Nested from '../Nested.svelte';
+  // import Nested from '../Nested.svelte';
 </script>
