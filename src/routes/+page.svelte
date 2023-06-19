@@ -95,14 +95,14 @@
 </style>
 
 
-<h2>My cool user list</h2>
+<!-- <h2>My cool user list</h2>
 <ul>
     {#each data.users as user}
         <li>
             {user.id} - {`${user.username}`}
         </li>
     {/each}
-</ul>
+</ul> -->
 
 
 <!-- <form method="post">
